@@ -15,7 +15,7 @@ variable ami_instancia {
 }
 variable prefijo {
   type = string
-  default = "RGV-2"
+  default = "RGV-3"
   description = "Prefijo que le pondremos a los recursos"
 }
 variable key {
